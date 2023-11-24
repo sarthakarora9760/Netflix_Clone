@@ -10,7 +10,6 @@ This project is a Netflix clone website, aiming to replicate the design and func
 
 - Browse and view a catalog of movies and TV shows.
 - Responsive design for seamless viewing on various devices.
-- User authentication and account management.
 - Play trailers for selected content.
 
 ## Screenshots
