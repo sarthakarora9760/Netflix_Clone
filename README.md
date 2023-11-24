@@ -22,7 +22,6 @@ This project is a Netflix clone website, aiming to replicate the design and func
 - HTML
 - CSS (styled with SCSS)
 - JavaScript (React.js for UI components)
-- Firebase for authentication and data storage
 
 1. Clone the repository:
 
