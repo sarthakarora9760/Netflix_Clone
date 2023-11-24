@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Clone](./screenshots/home_page.png)
+![Netflix Clone](https://github.com/sarthakarora9760/Netflix_Clone/blob/master/screenshots/home_page.png)
 
 ## Description
 
