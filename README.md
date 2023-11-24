@@ -16,7 +16,7 @@ This project is a Netflix clone website, aiming to replicate the design and func
 ## Screenshots
 
 ![Homepage](./screenshots/homepage.png)
-![FAQ GRID](./screenshots/faq.png)
+![FAQ GRID](https://github.com/sarthakarora9760/Netflix_Clone/blob/master/screenshots/faq.png)
 
 ## Technologies Used
 
